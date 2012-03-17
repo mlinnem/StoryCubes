@@ -17,6 +17,7 @@
 		4D5F6D0A15150F0D0011138E /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0815150F0D0011138E /* MainWindow.xib */; };
 		4D5F6D0D15150F0D0011138E /* StoryCubesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0C15150F0D0011138E /* StoryCubesViewController.m */; };
 		4D5F6D1015150F0D0011138E /* StoryCubesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0E15150F0D0011138E /* StoryCubesViewController.xib */; };
+		4D7BC9F81515252100EA0A3C /* Readme2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4D7BC9F71515252100EA0A3C /* Readme2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		4D5F6D0B15150F0D0011138E /* StoryCubesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StoryCubesViewController.h; sourceTree = "<group>"; };
 		4D5F6D0C15150F0D0011138E /* StoryCubesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryCubesViewController.m; sourceTree = "<group>"; };
 		4D5F6D0F15150F0D0011138E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/StoryCubesViewController.xib; sourceTree = "<group>"; };
+		4D7BC9F71515252100EA0A3C /* Readme2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				4D5F6D0E15150F0D0011138E /* StoryCubesViewController.xib */,
 				4D5F6CFD15150F0D0011138E /* Supporting Files */,
 				1DD33FF9151523390010661F /* Readme.txt */,
+				4D7BC9F71515252100EA0A3C /* Readme2.txt */,
 			);
 			path = StoryCubes;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				4D5F6D0A15150F0D0011138E /* MainWindow.xib in Resources */,
 				4D5F6D1015150F0D0011138E /* StoryCubesViewController.xib in Resources */,
 				1DD33FFA151523390010661F /* Readme.txt in Resources */,
+				4D7BC9F81515252100EA0A3C /* Readme2.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
