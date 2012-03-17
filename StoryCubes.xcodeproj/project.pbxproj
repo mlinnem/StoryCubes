@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D9450B71515215D00265CDF /* Readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1D9450B61515215D00265CDF /* Readme.txt */; };
+		1DD33FFA151523390010661F /* Readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1DD33FF9151523390010661F /* Readme.txt */; };
 		4D5F6CF715150F0D0011138E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D5F6CF615150F0D0011138E /* UIKit.framework */; };
 		4D5F6CF915150F0D0011138E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D5F6CF815150F0D0011138E /* Foundation.framework */; };
 		4D5F6CFB15150F0D0011138E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D5F6CFA15150F0D0011138E /* CoreGraphics.framework */; };
@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1D9450B61515215D00265CDF /* Readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme.txt; sourceTree = "<group>"; };
+		1DD33FF9151523390010661F /* Readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme.txt; sourceTree = "<group>"; };
 		4D5F6CF215150F0D0011138E /* StoryCubes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoryCubes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D5F6CF615150F0D0011138E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4D5F6CF815150F0D0011138E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -88,7 +88,7 @@
 				4D5F6D0C15150F0D0011138E /* StoryCubesViewController.m */,
 				4D5F6D0E15150F0D0011138E /* StoryCubesViewController.xib */,
 				4D5F6CFD15150F0D0011138E /* Supporting Files */,
-				1D9450B61515215D00265CDF /* Readme.txt */,
+				1DD33FF9151523390010661F /* Readme.txt */,
 			);
 			path = StoryCubes;
 			sourceTree = "<group>";
@@ -154,7 +154,7 @@
 				4D5F6D0115150F0D0011138E /* InfoPlist.strings in Resources */,
 				4D5F6D0A15150F0D0011138E /* MainWindow.xib in Resources */,
 				4D5F6D1015150F0D0011138E /* StoryCubesViewController.xib in Resources */,
-				1D9450B71515215D00265CDF /* Readme.txt in Resources */,
+				1DD33FFA151523390010661F /* Readme.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
