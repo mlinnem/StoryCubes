@@ -23,14 +23,14 @@
 		4D5F6CF615150F0D0011138E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4D5F6CF815150F0D0011138E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4D5F6CFA15150F0D0011138E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4D5F6CFE15150F0D0011138E /* StoryCubes-Info.plist */ = {isa = PBXFileReference; path = "StoryCubes-Info.plist"; sourceTree = "<group>"; };
+		4D5F6CFE15150F0D0011138E /* StoryCubes-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StoryCubes-Info.plist"; sourceTree = "<group>"; };
 		4D5F6D0015150F0D0011138E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4D5F6D0215150F0D0011138E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4D5F6D0415150F0D0011138E /* StoryCubes-Prefix.pch */ = {isa = PBXFileReference; path = "StoryCubes-Prefix.pch"; sourceTree = "<group>"; };
-		4D5F6D0515150F0D0011138E /* StoryCubesAppDelegate.h */ = {isa = PBXFileReference; path = StoryCubesAppDelegate.h; sourceTree = "<group>"; };
+		4D5F6D0415150F0D0011138E /* StoryCubes-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StoryCubes-Prefix.pch"; sourceTree = "<group>"; };
+		4D5F6D0515150F0D0011138E /* StoryCubesAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StoryCubesAppDelegate.h; sourceTree = "<group>"; };
 		4D5F6D0615150F0D0011138E /* StoryCubesAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryCubesAppDelegate.m; sourceTree = "<group>"; };
 		4D5F6D0915150F0D0011138E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		4D5F6D0B15150F0D0011138E /* StoryCubesViewController.h */ = {isa = PBXFileReference; path = StoryCubesViewController.h; sourceTree = "<group>"; };
+		4D5F6D0B15150F0D0011138E /* StoryCubesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StoryCubesViewController.h; sourceTree = "<group>"; };
 		4D5F6D0C15150F0D0011138E /* StoryCubesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryCubesViewController.m; sourceTree = "<group>"; };
 		4D5F6D0F15150F0D0011138E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/StoryCubesViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
