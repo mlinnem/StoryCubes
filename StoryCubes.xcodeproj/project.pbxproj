@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4D5F6CF715150F0D0011138E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D5F6CF615150F0D0011138E /* UIKit.framework */; };
+		4D5F6CF915150F0D0011138E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D5F6CF815150F0D0011138E /* Foundation.framework */; };
+		4D5F6CFB15150F0D0011138E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D5F6CFA15150F0D0011138E /* CoreGraphics.framework */; };
+		4D5F6D0115150F0D0011138E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4D5F6CFF15150F0D0011138E /* InfoPlist.strings */; };
+		4D5F6D0315150F0D0011138E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0215150F0D0011138E /* main.m */; };
+		4D5F6D0715150F0D0011138E /* StoryCubesAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0615150F0D0011138E /* StoryCubesAppDelegate.m */; };
+		4D5F6D0A15150F0D0011138E /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0815150F0D0011138E /* MainWindow.xib */; };
+		4D5F6D0D15150F0D0011138E /* StoryCubesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0C15150F0D0011138E /* StoryCubesViewController.m */; };
+		4D5F6D1015150F0D0011138E /* StoryCubesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D5F6D0E15150F0D0011138E /* StoryCubesViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4D5F6CF215150F0D0011138E /* StoryCubes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoryCubes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D5F6CF615150F0D0011138E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		4D5F6CF815150F0D0011138E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4D5F6CFA15150F0D0011138E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4D5F6CFE15150F0D0011138E /* StoryCubes-Info.plist */ = {isa = PBXFileReference; path = "StoryCubes-Info.plist"; sourceTree = "<group>"; };
+		4D5F6D0015150F0D0011138E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4D5F6D0215150F0D0011138E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4D5F6D0415150F0D0011138E /* StoryCubes-Prefix.pch */ = {isa = PBXFileReference; path = "StoryCubes-Prefix.pch"; sourceTree = "<group>"; };
+		4D5F6D0515150F0D0011138E /* StoryCubesAppDelegate.h */ = {isa = PBXFileReference; path = StoryCubesAppDelegate.h; sourceTree = "<group>"; };
+		4D5F6D0615150F0D0011138E /* StoryCubesAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryCubesAppDelegate.m; sourceTree = "<group>"; };
+		4D5F6D0915150F0D0011138E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		4D5F6D0B15150F0D0011138E /* StoryCubesViewController.h */ = {isa = PBXFileReference; path = StoryCubesViewController.h; sourceTree = "<group>"; };
+		4D5F6D0C15150F0D0011138E /* StoryCubesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryCubesViewController.m; sourceTree = "<group>"; };
+		4D5F6D0F15150F0D0011138E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/StoryCubesViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4D5F6CEF15150F0D0011138E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D5F6CF715150F0D0011138E /* UIKit.framework in Frameworks */,
+				4D5F6CF915150F0D0011138E /* Foundation.framework in Frameworks */,
+				4D5F6CFB15150F0D0011138E /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4D5F6CE715150F0D0011138E = {
+			isa = PBXGroup;
+			children = (
+				4D5F6CFC15150F0D0011138E /* StoryCubes */,
+				4D5F6CF515150F0D0011138E /* Frameworks */,
+				4D5F6CF315150F0D0011138E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4D5F6CF315150F0D0011138E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4D5F6CF215150F0D0011138E /* StoryCubes.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4D5F6CF515150F0D0011138E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4D5F6CF615150F0D0011138E /* UIKit.framework */,
+				4D5F6CF815150F0D0011138E /* Foundation.framework */,
+				4D5F6CFA15150F0D0011138E /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4D5F6CFC15150F0D0011138E /* StoryCubes */ = {
+			isa = PBXGroup;
+			children = (
+				4D5F6D0515150F0D0011138E /* StoryCubesAppDelegate.h */,
+				4D5F6D0615150F0D0011138E /* StoryCubesAppDelegate.m */,
+				4D5F6D0815150F0D0011138E /* MainWindow.xib */,
+				4D5F6D0B15150F0D0011138E /* StoryCubesViewController.h */,
+				4D5F6D0C15150F0D0011138E /* StoryCubesViewController.m */,
+				4D5F6D0E15150F0D0011138E /* StoryCubesViewController.xib */,
+				4D5F6CFD15150F0D0011138E /* Supporting Files */,
+			);
+			path = StoryCubes;
+			sourceTree = "<group>";
+		};
+		4D5F6CFD15150F0D0011138E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4D5F6CFE15150F0D0011138E /* StoryCubes-Info.plist */,
+				4D5F6CFF15150F0D0011138E /* InfoPlist.strings */,
+				4D5F6D0215150F0D0011138E /* main.m */,
+				4D5F6D0415150F0D0011138E /* StoryCubes-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4D5F6CF115150F0D0011138E /* StoryCubes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4D5F6D1315150F0D0011138E /* Build configuration list for PBXNativeTarget "StoryCubes" */;
+			buildPhases = (
+				4D5F6CEE15150F0D0011138E /* Sources */,
+				4D5F6CEF15150F0D0011138E /* Frameworks */,
+				4D5F6CF015150F0D0011138E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StoryCubes;
+			productName = StoryCubes;
+			productReference = 4D5F6CF215150F0D0011138E /* StoryCubes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4D5F6CE915150F0D0011138E /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 4D5F6CEC15150F0D0011138E /* Build configuration list for PBXProject "StoryCubes" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4D5F6CE715150F0D0011138E;
+			productRefGroup = 4D5F6CF315150F0D0011138E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4D5F6CF115150F0D0011138E /* StoryCubes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4D5F6CF015150F0D0011138E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D5F6D0115150F0D0011138E /* InfoPlist.strings in Resources */,
+				4D5F6D0A15150F0D0011138E /* MainWindow.xib in Resources */,
+				4D5F6D1015150F0D0011138E /* StoryCubesViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4D5F6CEE15150F0D0011138E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D5F6D0315150F0D0011138E /* main.m in Sources */,
+				4D5F6D0715150F0D0011138E /* StoryCubesAppDelegate.m in Sources */,
+				4D5F6D0D15150F0D0011138E /* StoryCubesViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4D5F6CFF15150F0D0011138E /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D5F6D0015150F0D0011138E /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4D5F6D0815150F0D0011138E /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D5F6D0915150F0D0011138E /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		4D5F6D0E15150F0D0011138E /* StoryCubesViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D5F6D0F15150F0D0011138E /* en */,
+			);
+			name = StoryCubesViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4D5F6D1115150F0D0011138E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4D5F6D1215150F0D0011138E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4D5F6D1415150F0D0011138E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "StoryCubes/StoryCubes-Prefix.pch";
+				INFOPLIST_FILE = "StoryCubes/StoryCubes-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		4D5F6D1515150F0D0011138E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "StoryCubes/StoryCubes-Prefix.pch";
+				INFOPLIST_FILE = "StoryCubes/StoryCubes-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4D5F6CEC15150F0D0011138E /* Build configuration list for PBXProject "StoryCubes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D5F6D1115150F0D0011138E /* Debug */,
+				4D5F6D1215150F0D0011138E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4D5F6D1315150F0D0011138E /* Build configuration list for PBXNativeTarget "StoryCubes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D5F6D1415150F0D0011138E /* Debug */,
+				4D5F6D1515150F0D0011138E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4D5F6CE915150F0D0011138E /* Project object */;
+}
