@@ -1,1 +1,1 @@
-If Micah can read this, we can now start coding!!!
+If Micah can read this, we are all set to eat!!
