@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector
+END
+DetectorDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/DetectorDM.h
+END
+CornerPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/CornerPoint.cpp
+END
+MonochromeRectangleDetectorDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/MonochromeRectangleDetectorDM.cpp
+END
+CornerPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/CornerPoint.h
+END
+DetectorException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/DetectorException.cpp
+END
+DetectorDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/DetectorDM.cpp
+END
+MonochromeRectangleDetectorDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/MonochromeRectangleDetectorDM.h
+END
+DetectorException.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/datamatrix/detector/DetectorException.h
+END

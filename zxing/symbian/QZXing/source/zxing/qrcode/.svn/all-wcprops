@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode
+END
+FormatInformation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/FormatInformation.cpp
+END
+ErrorCorrectionLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/ErrorCorrectionLevel.h
+END
+QRCodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/QRCodeReader.cpp
+END
+FormatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/FormatInformation.h
+END
+QRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/QRCodeReader.h
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/Version.cpp
+END
+ErrorCorrectionLevel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/ErrorCorrectionLevel.cpp
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2089/trunk/symbian/QZXing/source/zxing/qrcode/Version.h
+END

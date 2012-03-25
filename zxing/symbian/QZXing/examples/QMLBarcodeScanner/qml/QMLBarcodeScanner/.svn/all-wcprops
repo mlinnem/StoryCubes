@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner
+END
+CaptureControls.qml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CaptureControls.qml
+END
+FlickableList.qml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/FlickableList.qml
+END
+CameraPropertyButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CameraPropertyButton.qml
+END
+declarative-camera.qml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/declarative-camera.qml
+END
+FocusButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/FocusButton.qml
+END
+CameraPropertyPopup.qml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CameraPropertyPopup.qml
+END
+CameraButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CameraButton.qml
+END
+ZoomControl.qml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/ZoomControl.qml
+END
+ExposureCompensationButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2089/trunk/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/ExposureCompensationButton.qml
+END
