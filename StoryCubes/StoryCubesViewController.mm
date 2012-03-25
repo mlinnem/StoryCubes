@@ -7,6 +7,8 @@
 //
 
 #import "StoryCubesViewController.h"
+#import <ZXingWidgetController.h>
+#import "QRCodeReader.h"
 
 @implementation StoryCubesViewController
 
